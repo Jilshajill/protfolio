@@ -1,0 +1,182 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    
+.edu-au-vic-wa-nt-arrows-<uniquifier> {
+    font-family: "Edu AU VIC WA NT Arrows", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+}
+
+.container{
+    padding: 50px;
+    background-color: lightcyan;
+}
+
+.section-one{
+    color: rgb(3, 240, 252);
+    background-color: rgb(7, 110, 119);
+    padding: 20px;
+}
+
+.section-one__name{
+    font-size: 60px;
+}
+
+.section-one__role{
+    font-size: 30px;
+}
+
+.section-one__contact{
+    color: rgb(27, 2, 71);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 15px;
+}
+
+.section-two__title,.section-three__title,.section-four__title,.section-five__title{
+    margin-top: 20px;
+}
+
+.section-two__desc,.section-three__desc,.section-four__desc,.section-five__desc{
+    margin-top: 10px;
+}
+
+.section-three__desc li,.section-four__desc li{
+    list-style: none;
+}
+
+.section-five{
+    color: aqua;
+    background-color: rgb(166, 166, 163);
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.section-five__title a{
+    color: yellowgreen;
+}
+
+.container-contactform{
+    padding: 50px;
+    background-color: lightcyan;
+}
+
+.section-six{
+    color: aqua;
+    background-color: rgb(6, 119, 13);
+    padding: 20px;
+}
+
+.section-six__name{
+    font-size: 60px;
+}
+
+.section-six__role{
+    font-size: 30px;
+}
+
+.section-six__contact{
+    color: aqua;
+    background-color: rgb(217, 243, 69);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 15px;
+}
+
+.section-seven__input{
+    border: none;
+    border-bottom: rgb(14, 14, 210) solid 2px;
+}
+
+.section-seven__textarea{
+    border: none;
+    border: yellowgreen solid 2px;
+}
+
+.section-seven__submit{
+    color: aqua;
+    background-color: yellowgreen;
+    padding: 10px;
+}
+
+
+.section-eight__title a{
+    color: brown;
+}
+
+.section-two{
+    margin-top:0px;
+    padding: 20px;
+}
+
+.section-three{
+    /* background-color: violet;
+    padding: 20px;
+    margin-top: 0px;
+}
+
+.section-four{
+    /* background-color: rgba(231, 35, 208, 0.825); */
+    padding: 20px;
+    margin-top: 0px;
+}
+
+.section-five{
+    /* background-color: rgba(195, 72, 191, 0.825); */
+    padding: 20px;
+    margin-top: 0px;
+}
+
+.section-five__contact{
+    background-color: rgb(186, 230, 12);
+    color:#020087;
+}
+
+.section-one__role{
+    color: blue;
+}
+.section-one__name{
+    color: blue;
+}
+.section-one__a{
+    text-decoration: none;
+}
+
+.section-five__contact{
+    text-decoration: none;
+    background-color: rgb(20, 104, 169);
+    color: bisque;
+    padding: 2px;
+}
+
+.section-five__desc{
+    color: red;
+}
+.section-five__title{
+    color: red;
+}
+.section-two ,.section-three ,.section-four{
+    background-color:  rgb(228, 129, 210);
+}
+
+.section-four{
+    padding: 10px;
+}
+
+.section-five{
+    background-color: rgb(7, 110, 119);
+}
